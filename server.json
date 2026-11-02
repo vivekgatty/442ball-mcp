@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.442ball/442ball",
+  "description": "442ball's weekly football club Power Ratings, league strength, runs and greatest sides.",
+  "version": "1.0.0",
+  "websiteUrl": "https://442ball.com/en/ai",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.442ball.com/mcp"
+    }
+  ]
+}
