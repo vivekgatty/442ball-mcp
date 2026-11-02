@@ -1,5 +1,7 @@
 # 442ball connector
 
+[![442ball MCP connector on Glama: tool quality and endpoint health](https://glama.ai/mcp/connectors/com.442ball/442ball/badges/score.svg)](https://glama.ai/mcp/connectors/com.442ball/442ball)
+
 442ball is a football publication at [442ball.com](https://442ball.com). This connector lets Claude and other AI assistants read 442ball's own weekly club Power Ratings and the ratings built on them. Every answer links to the 442ball page of each club and league it names.
 
 **Address:** `https://mcp.442ball.com/mcp` (streamable HTTP, no sign-in)
